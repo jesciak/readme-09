@@ -1,5 +1,5 @@
 
-  # Readme Generator
+  # title
 
   ## Table of Contents 
 
@@ -10,22 +10,24 @@
 - [Contributors](#contributors)
 
   ## Description
-  The application will be used to auto generate a readme
+  ana
 
   ## Installation
-  must install inquirer
+  dkdjk
 
   ## Usage
-  refer to screenshots
+  ;ljdl
   
 
-  ## License: Apache License 2.0
-  ![Apache License 2.0](https://img.shields.io/badge/license-Apache-blue)
-  this is the apcahe license description
+  ## License
+   Creative Commons Zero<br>
+  ![Creative Commons Zero](https://img.shields.io/badge/license-Creative%20Commons%20Zero-blueviolet)<br>
+  https://choosealicense.com/licenses/cc0-1.0/<br>
+  The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
 
 
   ## Contributors
-   - [github](https://github.com/jesciak) 
+   - [Github:](https://github.com/jesciak) jesciak
 
   ## Contact
   Email: jesciak@yahoo.com
