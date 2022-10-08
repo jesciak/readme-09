@@ -42,7 +42,7 @@ const questions = [
     {
         type: 'input',
         message: "What are some contribution guidelines",
-        name: 'coontributing',
+        name: 'contributors',
     },
     {
         type: 'input',
@@ -76,10 +76,11 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile("readme.md", generateMarkdown(data), function (err) {
+    fs.writeFile(`generated-readme.md`, generateMarkdown(data), function (err) {
         if (err)
             return console.log(err);
         else {
+            console.log(data);
             console.log("Success!");
         }
     });
