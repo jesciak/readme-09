@@ -17,6 +17,8 @@
   ## Usage
  The user will utilize this application to dynamically generate a high quality professional README.md quickly and easily through the  command for thier projects.
 
+ ![video](./assets/readme-generator-09.webm)
+
   ## License
    ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)
       MIT License<br>
