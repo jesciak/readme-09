@@ -41,8 +41,8 @@ const questions = [
     },
     {
         type: 'input',
-        message: "What are some contribution guidelines",
-        name: 'contributors',
+        message: "Are there any contribution guidelines?",
+        name: 'contributing',
     },
     {
         type: 'input',

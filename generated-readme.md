@@ -1,5 +1,5 @@
 
-  # title
+  # readme generator
 
   ## Table of Contents 
 
@@ -10,20 +10,20 @@
 - [Contributors](#contributors)
 
   ## Description
-  ana
+  this is a command line appplication that auto generates
 
   ## Installation
-  dkdjk
+  must run an npm install of inquirer
 
   ## Usage
-  ;ljdl
+  na
   
 
   ## License
-   Creative Commons Zero<br>
-  ![Creative Commons Zero](https://img.shields.io/badge/license-Creative%20Commons%20Zero-blueviolet)<br>
-  https://choosealicense.com/licenses/cc0-1.0/<br>
-  The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
+   Boost Software License 1.0<br>
+  ![Boost Software License 1.0](https://img.shields.io/badge/license-Boost%20Software%20License%201.0-lightgrey)<br>
+  https://choosealicense.com/licenses/bsl-1.0/<br>
+  A simple permissive license only requiring preservation of copyright and license notices for source (and not binary) distribution. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 
   ## Contributors
