@@ -27,7 +27,7 @@
 
 
   ## Contributing
-  please refer to www.contributor-covenant.org
+  please refer to contributor-covenant.org
 
    
   ## Questions
