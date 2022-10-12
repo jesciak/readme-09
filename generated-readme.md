@@ -1,6 +1,6 @@
 
-  # Readme Generator<br>
-  ![The Unlicense](https://img.shields.io/badge/license-The%20Unlicense-black)
+  # d<br>
+  ![BSD 2-Clause "Simplified" License](undefined)
 
   ## Table of Contents 
 
@@ -12,27 +12,27 @@
 - [Questions](#questions)
 
   ## Description
-  This is a command line application that autogenerates a readme file from a user's input
+  d
 
   ## Installation
-  must run an NPM package install of inquirer - npm i inquirer
+  df
 
   ## Usage
-  This is a quick way to generate a readme file for your next project or github repository
+  
   
 
   ## License
-  The Unlicense<br>
-  https://choosealicense.com/licenses/unlicense/<br>
-  A license with no conditions whatsoever which dedicates works to the public domain. Unlicensed works, modifications, and larger works may be distributed under different terms and without source code.
+  BSD 2-Clause "Simplified" License<br>
+  undefined<br>
+  undefined
 
 
   ## Contributing
-  please refer to contributor-covenant.org
+  ds
 
    
   ## Questions
-  If you have any questions please email: jesciak@yahoo.com
+  If you have any questions please email: d
 
-  - [Github:](https://github.com/jesciak) jesciak
+- [Github:](https://github.com/d) d
 

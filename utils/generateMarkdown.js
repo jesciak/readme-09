@@ -117,6 +117,7 @@ function generateMarkdown(data) {
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
+- [Questions](#questions)
 
   ## Description
   ${data.description}
@@ -141,7 +142,7 @@ function generateMarkdown(data) {
   ## Questions
   If you have any questions please email: ${data.email}
 
-- [Github:](https://github.com/${data.username}) ${data.username}
+  - [Github:](https://github.com/${data.username}) ${data.username}
 
 `;
 }
